@@ -1,8 +1,8 @@
-I'm a data wrangler during the day and hop enjoying mountain climber after hours. 
+I'm a data wrangler during the day and mountain climber after hours. 
 
 * ⚙️ I use `.py`, `.csv`, and `.gpx` daily. 
-* 🌍 Attended UC Davis for Statistics (ML track) and run in Marin with [SFRC](https://www.sfrunco.com).
-* 🫰 Always trying new hobbies, gadgets, and meeting new people. Give me a ping!
+* 🌍 Attended UC Davis for Statistics and run in Marin with [SFRC](https://www.sfrunco.com).
+* 🏕️ Always trying new hobbies, gadgets, and meeting new people. Send me a ping!
  
 ```md
 ╔═══════════════════╗
@@ -12,7 +12,7 @@ I'm a data wrangler during the day and hop enjoying mountain climber after hours
           ▼
 ╔════════════════════════════╗
 ║ Iterative problem solving, ║
-║ performanc optimization,   ║
+║ performance optimization,  ║
 ║ and strategic thinking. 📊 ║
 ╚════════════════════════════╝
               ║
@@ -20,6 +20,6 @@ I'm a data wrangler during the day and hop enjoying mountain climber after hours
       ▼                  ▼
 ╔══════════════════╗  ╔═══════════╗
 ║ Data             ║  ║ Endurance ║
-║ Engineering 👨🏻‍🔧📈 ║  ║ sports ⛰️ ║
+║ Engineering 👨🏻‍🔧📈║  ║ sports ⛰️ ║
 ╚══════════════════╝  ╚═══════════╝
 ```
